@@ -1,4 +1,4 @@
-20755884347979413
+20757546921918758
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87590,6 +87590,13 @@ HSOIC SO
 0
 14
 14
+trh9000
+Texas_R-PDSO-G16_3.9x9.9mm
+HSOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lmr14030.pdf#page=28, http://www.ti.com/lit/ml/msoi002j/msoi002j.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOIC SO
+0
+16
+16
 trh9000
 msx-con-MSXCART
 

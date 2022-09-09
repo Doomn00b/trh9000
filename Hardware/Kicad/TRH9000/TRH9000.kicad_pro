@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 3.5,
-          "width": 0.3
+          "height": 0.95,
+          "width": 0.8
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -424,11 +424,13 @@
         "microvia_drill": 0.1,
         "name": "BLUE",
         "nets": [
-          "/VDP/B",
+          "/Be",
+          "/VDP/Bi",
           "/VIDEO/BIN",
           "/VIDEO/BO",
           "/VIDEO/BOUT",
-          "/VIDEO/BO_"
+          "/VIDEO/BO_",
+          "/VIDEO/Bm"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(39, 84, 217)",
@@ -470,11 +472,13 @@
         "microvia_drill": 0.1,
         "name": "GREEN",
         "nets": [
-          "/VDP/G",
+          "/Ge",
+          "/VDP/Gi",
           "/VIDEO/GIN",
           "/VIDEO/GO",
           "/VIDEO/GOUT",
-          "/VIDEO/GO_"
+          "/VIDEO/GO_",
+          "/VIDEO/Gm"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 194, 0)",
@@ -494,6 +498,11 @@
         "microvia_drill": 0.1,
         "name": "Ground",
         "nets": [
+          "/GNDe",
+          "/VIDEO/AUGND",
+          "/VIDEO/Col_GND",
+          "/VIDEO/GNDD",
+          "/VIDEO/VGA_GND",
           "GND",
           "GND1"
         ],
@@ -535,11 +544,13 @@
         "microvia_drill": 0.1,
         "name": "RED",
         "nets": [
-          "/VDP/R",
+          "/Re",
+          "/VDP/Ri",
           "/VIDEO/RIN",
           "/VIDEO/RO",
           "/VIDEO/ROUT",
-          "/VIDEO/RO_"
+          "/VIDEO/RO_",
+          "/VIDEO/Rm"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 0, 0)",
