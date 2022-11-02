@@ -1,4 +1,4 @@
-20757546921918758
+21171363535902404
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6538,6 +6538,13 @@ TRS audio jack stereo horizontal circular
 5
 5
 Connector_Audio
+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cuidevices.com/product/resource/sj2-359x-smt.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+5
+5
+Connector_Audio
 Jack_3.5mm_Ledino_KB3SPRS_Horizontal
 https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
 jack stereo TRS
@@ -7442,7 +7449,7 @@ neutrik xlr aa
 4
 Connector_Audio
 Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
-A Series, Chassis connector H female (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mafh-ph
+A Series, Chassis connector H female (A series layout), mates with Phoenix MSTB2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mafh-ph
 neutrik xlr a
 0
 3
@@ -7477,7 +7484,7 @@ neutrik xlr a
 4
 Connector_Audio
 Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal
-A Series, Chassis connector Phoenix H male (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mamh-ph
+A Series, Chassis connector Phoenix H male (A series layout), mates with Phoenix MSTB 2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mamh-ph
 neutrik xlr a
 0
 3
@@ -8063,6 +8070,13 @@ Micro SD
 0
 14
 11
+Connector_Card
+microSD_HC_Molex_47219-2001
+1.10mm Pitch microSD Card Connector, Hinge Type, https://www.molex.com/pdm_docs/sd/472192001_sd.pdf
+Micro SD
+0
+12
+9
 Connector_Card
 microSD_HC_Molex_104031-0811
 1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
@@ -48769,6 +48783,13 @@ dc-dc recom buck lga-25 pitch 2.29mm
 25
 25
 Converter_DCDC
+Converter_DCDC_Silvertel_Ag5810
+DCDC-Converter, 60W POE, Silvertel, pitch 2.54mm, package size 69.98x30x15.64mm, https://silvertel.com/images/datasheets/Ag5810-datasheet-IEEE802_3bt-Power-over-Ethernet-4-pair-PD.pdf
+DCDC-Converter Silvertel Ag5810 single output POE
+0
+163
+13
+Converter_DCDC
 Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD
 Traco TDN 5WISM Series, 5W, SMD (https://assets.tracopower.com/20200225170127/TDN5WISM/documents/tdn5wism-datasheet.pdf#page=3)
 dcdc traco 5w smd
@@ -49573,6 +49594,13 @@ SMD SMT crystal
 0
 2
 2
+Crystal
+Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm
+Abracon Miniature Ceramic Smd Crystal ABM8AIG https://abracon.com/AIGcrystals/ABM8AIG.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
 Crystal
 Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm
 Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package
@@ -52885,6 +52913,139 @@ car blade fuse mini
 4
 2
 Fuse
+Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Lateral, Horizontal, Bel FC-203-22, https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0672-fuse-clips-series.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Eaton_1A5601-01_Inline_P20.80x6.76mm_D1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Eaton 1A5601-01, https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-1axxxx-pcb-fuse-clips-atc-atm-blade-data-sheet.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3512P_Inline_P23.62x7.27mm_D1.02x2.41x1.02x1.57mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3512P, http://www.keyelco.com/product-pdf.cfm?p=1386
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3512, http://www.keyelco.com/product-pdf.cfm?p=356
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3517, http://www.keyelco.com/product-pdf.cfm?p=354
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3518P, http://www.keyelco.com/product-pdf.cfm?p=1387
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 100, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_111_Inline_P20.00x5.00mm_D1.05mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 111, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_519_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_111_Lateral_P18.80x5.00mm_D1.17mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 111 (501 and 506), https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_445-030_Inline_P20.50x5.20mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 445/030, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_519_Inline_P20.60x5.00mm_D1.00mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 519, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_519_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_520_Inline_P20.50x5.80mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 520, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_521_Lateral_P17.00x5.00mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 521, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_520_521_102071_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Schurter CQM (0752), https://www.schurter.com/en/datasheet/typ_CQM.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Schurter OG, https://ch.schurter.com/en/datasheet/typ_OG__Clip__5x20.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102_122_Inline_P34.21x7.62mm_D1.98mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102/122 Straight Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102_Inline_P34.21x7.62mm_D2.54mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102 Bowed Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 122 Bowed Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102071, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_520_521_102071_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
 Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed
 Fuseholder, 5x20, closed, vertical, Bulgin, FX0456, https://www.bulgin.com/products/pub/media/bulgin/data/Fuseholders.pdf
 Fuseholder 5x20 closed vertical Bulgin FX0456 Sicherungshalter 
@@ -55412,6 +55573,48 @@ Inductor Axial series Axial Horizontal pin pitch 35.56mm  length 30mm diameter 8
 2
 2
 Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x105NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x155NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x205NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x405NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x705NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455xxx6NL_2
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
 L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100
 L_CommonMode_Toroid, Vertical series, Radial, pin pitch=6.35*15.24mm^2, , length*width=19.304*10.795mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf
 L_CommonMode_Toroid Vertical series Radial pin pitch 6.35*15.24mm^2  length 19.304mm width 10.795mm Bourns 8100
@@ -57127,6 +57330,13 @@ LED RGB NeoPixel
 4
 4
 LED_SMD
+LED_WS2812B-2020_PLCC4_2.0x2.0mm
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
+0
+4
+4
+LED_SMD
 LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
 https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
 LED RGB NeoPixel
@@ -57757,6 +57967,13 @@ AM4-lrj
 1331
 1331
 LRJ
+AM4_Cooler-bracket
+Standard contact-bracket for AM4 coolers.
+Cooler bracket AMD AM4
+0
+0
+0
+LRJ
 Amphenol_75869-306LF_2x17_P2.54mm_Vertical
 Through hole straight pin header, 2x17, 2.54mm pitch, double rows
 Through hole pin header THT 2x17 2.54mm double row
@@ -58058,12 +58275,12 @@ heatsink
 2
 2
 LRJ
-Heatsink_Noctua_135x138mm
-Heatsink, 38x38mm, Spring Fixation, diagonal,
+Heatsink_Scythe_FUMA_129x137mm
+Heatsink, 129x137mm, Spring Fixation, dual fans.
 heatsink
 0
-4
-4
+0
+0
 LRJ
 Hirose_FH63S-30S-0.5SH_1x30-1MP_P0.50mm_Horizontal
 Hirose FH63, FFC/FPC connector, FH63S-30S-0.5SH, 30 Pins per row (https://www.hirose.com/en/product/document?clcode=CL0580-4415-0-00&productname=FH63S-30S-0.5SH&series=FH63S&documenttype=2DDrawing&lang=en&documentid=0001345387)
@@ -58289,6 +58506,34 @@ PQFP-304_40x40mm_P0.5mm
 304
 304
 LRJ
+PinHeader_1x01_P1.27mm_Horizontal_less-silk
+Through hole angled pin header, 1x01, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x01 1.27mm single row
+0
+1
+1
+LRJ
+PinHeader_1x01_P2.54mm_Horizontal_less-silk
+Through hole angled pin header, 1x01, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x01 2.54mm single row
+0
+1
+1
+LRJ
+PinHeader_1x02_P1.27mm_Horizontal_less-silk
+Through hole angled pin header, 1x02, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x02 1.27mm single row
+0
+2
+2
+LRJ
+PinHeader_1x03_P2.54mm_Horizontal_less-silk
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
+LRJ
 PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left_sc
 surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left)
 Surface mounted pin header SMD 1x03 2.54mm single row style1 pin1 left
@@ -58338,6 +58583,13 @@ Potentiometer vertical Bourns 3262P
 3
 3
 LRJ
+Potentiometer_Bourns_3361P_Horizontal
+Potentiometer, horizontal, Bourns 3314S, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer horizontal Bourns 3314S
+0
+3
+3
+LRJ
 PowerPAK_MLP55-31L
 
 
@@ -58368,6 +58620,13 @@ resistor handsolder
 LRJ
 R_0603_1608Metric_roundcourt
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+LRJ
+R_0805_2012Metric_roundcourt
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
 0
 2
@@ -58444,7 +58703,7 @@ SMD SMT
 26
 LRJ
 SCART-21_Female_Horizontal_P1.905x2.54mm_EdgePinOffset10.7mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 10.7mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 10.7mm (see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf)
 25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
 0
 21
@@ -58499,6 +58758,13 @@ SMD DIP Switch SPST Slide 8.9mm 350mil
 12
 12
 LRJ
+SW_DIP_DPSTx06_Slide_CUI_DS01_W9.9mm_P2.54mm
+THT 6x-dip-switch SPST Omron_A6S-610x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
+SMD DIP Switch SPST Slide 8.9mm 350mil
+0
+12
+12
+LRJ
 Samtec_HSEC8-130-01_-X-DV-A_2x30_P0.8mm_Edge
 Highspeed card edge connector for PCB's with 60 contacts (not polarized)
 conn samtec card-edge high-speed
@@ -58512,6 +58778,13 @@ BUS ISA AT Edge connector Socket VLB
 0
 218
 218
+LRJ
+TEXAS_RI-8-1_7.5x5.85mm_P1.27mm
+SOIC, 8 Pin (http://www.ti.com/lit/ml/mpds382b/mpds382b.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
 LRJ
 TFSOP-56_11.5x6.4mm_P0.4mm
 56-pin TFSOP-package.
@@ -58603,6 +58876,13 @@ AMD X570 chipset package, for I/O-connections in and out of their Ryzen processo
 0
 1331
 1331
+LRJ
+Yageo_Fuse_1812_4532Metric
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal,
+fuse Yageo
+0
+2
+2
 LRJ
 breakaway-holes_0.5x8_p1.25
 Breakaway Hole 0.5mm, no annular ring.
@@ -61362,6 +61642,13 @@ refective opto couple photo coupler
 4
 4
 OptoDevice
+Everlight_ITR9608-F
+Fork-type photointerrupter (https://everlighteurope.com/index.php?controller=attachment&id_attachment=5389)
+Photointerrupter infrared LED
+0
+4
+4
+OptoDevice
 Finder_34.81
 Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
 Relay SPST Finder
@@ -61481,6 +61768,13 @@ Laser Diode TO56
 3
 3
 OptoDevice
+Lightpipe_Bivar_RLP1-400-650
+1-way, 2.8mm lightpipe, 10mm lens output height, 17mm protrusion, https://www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf
+planar light pipe 1 way 3mm 
+0
+0
+0
+OptoDevice
 Lightpipe_Dialight_515-1064F
 https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources
 lightpipe triple tower right angle 3mm
@@ -61565,6 +61859,20 @@ refective opto couple photo coupler
 4
 4
 OptoDevice
+Osram_BP104-SMD
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.2x2.2mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5989350/BP%20104%20FAS_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
+2
+OptoDevice
+Osram_BPW34S-SMD
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5488319/BPW%2034%20S_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
+2
+OptoDevice
 Osram_BPW82
 PhotoDiode, BPW82, RM2.54
 PhotoDiode BPW82 RM2.54
@@ -61605,6 +61913,20 @@ PhotoDiode, SFH225, RM2.54
 PhotoDiode SFH225 RM2.54
 0
 2
+2
+OptoDevice
+Osram_SFH2430
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5467144/SFH%202430_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
+2
+OptoDevice
+Osram_SFH2440
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5467146/SFH%202440_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
 2
 OptoDevice
 Osram_SMD-DIL2_4.5x4.0mm
@@ -77564,7 +77886,7 @@ ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
 Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
 0
-39
+60
 39
 RF_Module
 ESP32-WROOM-32U
@@ -85778,6 +86100,13 @@ Transformer Ethernet Single Center-Tap
 16
 16
 Transformer_SMD
+Transformer_Ethernet_Bourns_PT61020EL
+10/100/1000 Base-T Transformer Module, PT61020EL (https://www.bourns.com/pdfs/PT61020.pdf)
+Gigabit PoE Ethernet Transformer Single
+0
+24
+24
+Transformer_SMD
 Transformer_Ethernet_HALO_TG111-MSC13
 Transformer Ethernet SMD, https://www.haloelectronics.com/pdf/discrete-genesus.pdf
 Transformer Ethernet SMD
@@ -86309,6 +86638,13 @@ transformer flyback
 0
 10
 10
+Transformer_THT
+Transformer_Wuerth_760871131
+Transformer, horizontal core with bobbin, 14 pin, 2.49 mm pitch, 20 mm row spacing, 25x22.2x16mm https://www.we-online.com/catalog/datasheet/760871131.pdf
+transformer flyback
+0
+14
+14
 Transistor_Power_Module
 Infineon_AG-ECONO2
 28-lead TH, EconoPACK 2, same as Littelfuse_Package_H_XN2MM, https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979
@@ -86671,8 +87007,8 @@ Ultra-IO-shield
 Ultra-MSX Audio-Video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
 0
-35
-24
+55
+55
 Ultra-MSX
 Ultra-MIDI-daughter
 Ultra-MSX Midi daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
@@ -86683,7 +87019,7 @@ Through hole pin header THT 1x04 2.54mm single row
 Ultra-MSX
 Ultra-VDP-daughter
 Ultra-MSX VDP daughter-card (connectors only), 5x1x04, 1mm pitch, double row
-Through hole pin header THT 1x04 2.54mm single row
+Through hole pin header THT
 0
 56
 56
@@ -87478,6 +87814,1133 @@ varistor SIOV
 0
 2
 2
+Varistor
+RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
+Varistor, V25S440P, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=b410c42c-51d1-460e-b1d9-d105d93c9679&filename=littelfuse-varistor-ultramov25s-datasheet
+varistor
+0
+2
+2
+footprints_zpark
+ADUM2251ARWZ
+Digital Isolator, I2C, 5kV, Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 10.5 mm L X 7.6 mm W X 2.65 mm H body
+SMD SMT
+0
+16
+16
+footprints_zpark
+ADuM1250-SOIC8
+Small Outline IC (SOIC), 1.27 mm pitch; 8 pin, 4.90 mm L X 3.90 mm W X 1.75 mm H body
+
+0
+8
+8
+footprints_zpark
+ADuM5202W-SOIC16
+Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 10.30 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+16
+16
+footprints_zpark
+AZEV132
+Relay SPST Schrack-RT1 RM5mm 16A 250V AC Form C http://image.schrack.com/datenblaetter/h_rt114012--_de.pdf
+Relay SPST Schrack-RT1 RM5mm 16A 250V AC Relay
+0
+6
+6
+footprints_zpark
+AZEV140
+
+
+0
+6
+6
+footprints_zpark
+Amphenole_F305-1A7H1-11040-E100_1x40-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+42
+41
+footprints_zpark
+C&K_BTN-KSC9
+Plastic casing for C&K's KSC9 -series of buttons, 6.35mm Diameter.
+Zpark Button
+0
+0
+0
+footprints_zpark
+C&K_SW-PVA2
+C&K's PVA2-series of switches
+Zpark Button switch
+0
+6
+6
+footprints_zpark
+CNC_Tech_3220-10-0100-00
+
+
+0
+20
+20
+footprints_zpark
+CP_EIA-2012-12_Kemet-R
+Tantalum Capacitor SMD Kemet-R (2012-12 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+footprints_zpark
+CP_EIA-3216-18_Kemet-A
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: https://raw.githubusercontent.com/nuclearcat/kicad-stuff/master/docs/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+footprints_zpark
+CTSR_Current
+
+
+0
+6
+4
+footprints_zpark
+CTSR_Current_10
+
+
+0
+8
+6
+footprints_zpark
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_0402_1005Metric_nosilk
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_0603_1608Metric_nosilk
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_0805_2012Metric_nosilk
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor SMD SMT
+0
+2
+2
+footprints_zpark
+C_1206_3216Metric_nosilk
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_1808_4520Metric
+Capacitor SMD 1808 (4520 Metric), square (rectangular) end terminal
+Capacitor SMD
+0
+2
+2
+footprints_zpark
+C_2211_5728Metric
+Capacitor SMD 2211 (5728 Metric), square (rectangular) end terminal
+Capacitor SMD SMT
+0
+2
+2
+footprints_zpark
+C_Axial_L4.32mm_D2.54mm_P8.0mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=8.0mm, , length*diameter=4.32*2.54mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial Horizontal pin pitch 8.0mm Zpark
+0
+2
+2
+footprints_zpark
+C_Rect_L10.16mm_W6.0mm_P2.54mm_199D
+C, Rect series, Radial, pin pitch=2.54mm, , length*width=16.5*6mm^2, Capacitor, https://www.vishay.com/docs/40020/199d.pdf
+C Rect series Radial pin pitch 2.54mm length 10.16mm width 6mm Capacitor
+0
+2
+2
+footprints_zpark
+DO-214AC
+
+
+0
+2
+2
+footprints_zpark
+ECE05US12
+
+
+0
+5
+5
+footprints_zpark
+ECE10US12
+
+
+0
+4
+4
+footprints_zpark
+ECS_Crystal_ECX-32_SMD-4Pin_3.2x2.5mm
+ECS Inc. International, Crystal SMD 3225 Metric, 4 pins
+Crystal ECS
+0
+4
+4
+footprints_zpark
+Graphic_Black-bar_11.2x5.5mm
+A black box on the Silk-screen layer.
+Graphic Zpark
+0
+0
+0
+footprints_zpark
+Graphic_Caution_HV_16.6x4.8mm_SilkScreen
+High Voltage Caution warning -graphic, in 16.6x4.8 mm dimension.
+Graphic Zpark EV Logo
+0
+0
+0
+footprints_zpark
+Graphic_Caution_HV_27.7x8mm
+High Voltage Caution warning -graphic, for the PCB-silkscreen.
+Graphic Zpark EV
+0
+0
+0
+footprints_zpark
+Graphic_Charger_1_30.6x25.8mm
+EV-1 and MV-1 markings with neutral and phase.
+Zpark EV graphic
+0
+0
+0
+footprints_zpark
+Graphic_Charger_1_BOLD_30.6x25.8mm
+EV-1 and MV-1 graphic with bold text.
+Graphic Zpark EV
+0
+0
+0
+footprints_zpark
+Graphic_Charger_2_30.6x25.8mm
+EV-2 and MV-2 graphic with Phase and Neutral markings.
+EV Zpark Graphic
+0
+0
+0
+footprints_zpark
+Graphic_Charger_2_BOLD_30.6x28.5mm
+EV2 and MV2 graphic with bold text.
+EV Zpark Graphic
+0
+0
+0
+footprints_zpark
+Graphic_Charger_Input_BOLD_5.75x23.5mm_SilkScreen
+L1, L2 and Neutral markings on the silkscreen-layer.
+Graphic Zpark
+0
+0
+0
+footprints_zpark
+Graphic_WEEE_4.2x6mm_SilkScreen
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE Graphic
+0
+0
+0
+footprints_zpark
+Harwin-M22
+
+
+0
+16
+16
+footprints_zpark
+Harwin_S1941-42R
+
+
+0
+1
+1
+footprints_zpark
+IEC62196_Type2_MountingHole_1.8mm_Pad_x5
+Mounting Hole 2.2mm, M2, ISO7380, x5
+mounting hole 2.2mm m2 iso7380
+0
+5
+5
+footprints_zpark
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+footprints_zpark
+LED_EAST1410RGBW02
+
+
+0
+6
+6
+footprints_zpark
+LED_NTE_D5.0mm_P1.25-4_RGB
+LED, RGB, diameter 5.0mm, 4 pins, based on: https://www.nteinc.com/specs/30100to30199/pdf/nte30153_56.pdf
+LED diameter 5.0mm 4 pins RGB RGBLED Zpark
+0
+4
+4
+footprints_zpark
+LED_QBE_D5.0mm_P1.27-4_RGB
+LED, RGB, diameter 5.0mm, 4 pins, based on: https://www.nteinc.com/specs/30100to30199/pdf/nte30153_56.pdf
+LED diameter 5.0mm 4 pins RGB RGBLED Zpark
+0
+4
+4
+footprints_zpark
+LED_QBE_D5.0mm_P1.27-4_RGB_RA
+LED, RGB, diameter 5.0mm, 4 pins, right angle
+LED diameter 5.0mm 4 pins RGB RGBLED Zpark
+0
+4
+4
+footprints_zpark
+LED_SunLED_XZFB
+
+
+0
+6
+6
+footprints_zpark
+LMZ21700_uSIP8
+
+
+0
+12
+8
+footprints_zpark
+LOGO_CHARGEIT_74.5x11.15mm
+
+CHARGEIT ZPARK EV Graphic
+0
+0
+0
+footprints_zpark
+LOGO_GREPIT2_7x9mm
+
+
+0
+0
+0
+footprints_zpark
+LOGO_GREPIT2_11x14mm
+
+
+0
+0
+0
+footprints_zpark
+LOGO_GREPIT_TEXT
+
+
+0
+0
+0
+footprints_zpark
+LOGO_ZPARK_13.12x13.12mm
+The Zpark project logo, in the size of 13.12 x 13.12 mm.
+Graphic Logo Zpark
+0
+0
+0
+footprints_zpark
+LOGO_ZPARK_14.76x14.76mm
+The Zpark project logo, in the size of 14.76 x 14.76 mm.
+
+0
+0
+0
+footprints_zpark
+LOGO_ZPARK_17.71x17.71mm
+The Zpark project logo, in the size of 17.71 x 17.71 mm.
+Graphic Logo Zpark
+0
+0
+0
+footprints_zpark
+LOGO_grepit_7x9mm
+
+
+0
+0
+0
+footprints_zpark
+LOGO_grepit_11x14mm
+
+
+0
+0
+0
+footprints_zpark
+LT1054-SOIC16
+Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 10.30 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+16
+16
+footprints_zpark
+LTMxxxxxx-BGA32_15x11.25mm
+LTMXXXXXX, BGA-32, µModule, 15 mm L X 11.25 mm W X 3.42 mm H body, Ball Designation per JESD MS-028 and JEP95
+BGA MS-028
+0
+32
+32
+footprints_zpark
+L_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+footprints_zpark
+L_0805_2012Metric
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+footprints_zpark
+L_Axial_L4.45mm_D3.51mm_P8.89mm_Horizontal_Laird
+Ferrite Bead, Axial, Horizontal, pin pitch=P8.89mm, length*diameter=4.45*3.51mm^2, Laird (see: https://www.laird.com/sites/default/files/2019-07/28L0138-10R-10.pdf)
+Inductor Ferrite Bead Laird Zpark
+0
+2
+2
+footprints_zpark
+MC-254-10-00-ST-DIP_2x05_P2.54mm_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+footprints_zpark
+MH-3.2_6mm
+
+
+0
+1
+1
+footprints_zpark
+MPM-04D
+
+
+0
+7
+7
+footprints_zpark
+Molex_1x2_P3.5
+
+
+0
+2
+2
+footprints_zpark
+Molex_019705-4301
+
+
+0
+2
+1
+footprints_zpark
+Molex_53517-0230
+
+
+0
+2
+2
+footprints_zpark
+Molex_505568-0671
+
+
+0
+8
+7
+footprints_zpark
+Mount_SMD_LED22
+
+
+0
+0
+0
+footprints_zpark
+Mount_THR_LED5_22
+
+
+0
+0
+0
+footprints_zpark
+MountingHole_0.5mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+footprints_zpark
+MountingHole_0.6mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+footprints_zpark
+MountingHole_1.2mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+footprints_zpark
+MountingHole_1.7mm_Pad
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
+0
+1
+1
+footprints_zpark
+MountingHole_1.8mm_Pad
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
+0
+1
+1
+footprints_zpark
+MountingHole_3.2mm_M3_Slot_Pad
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+1
+1
+footprints_zpark
+MountingHole_4.3mm_M4_ISO7380_Pad
+Mounting Hole 4.3mm, M4, ISO7380
+mounting hole 4.3mm m4 iso7380
+0
+1
+1
+footprints_zpark
+MountingHole_x3_3.5mm
+Mounting Hole 3.5mm, no annular
+mounting hole 3.5mm no annular
+0
+0
+0
+footprints_zpark
+OGSC-402030
+
+
+0
+1
+1
+footprints_zpark
+OGSC-756030
+
+
+0
+1
+1
+footprints_zpark
+Omron_32A
+
+
+0
+4
+4
+footprints_zpark
+PAD_1.5mm
+
+
+0
+1
+1
+footprints_zpark
+PE-53914NL
+
+
+0
+4
+4
+footprints_zpark
+PPTC_1210
+
+
+0
+2
+2
+footprints_zpark
+Panjit_D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+footprints_zpark
+Phoenix MKDS 5-3-7-62
+
+
+0
+3
+3
+footprints_zpark
+Phoenix MKDS 5-4-7-62
+
+
+0
+4
+4
+footprints_zpark
+Phoenix MKDS 5-5-6-35
+
+
+0
+6
+6
+footprints_zpark
+Phoenix MKDS 5-6-6-35
+
+
+0
+6
+6
+footprints_zpark
+Phoenix MKDS5-2-6-35
+
+
+0
+2
+2
+footprints_zpark
+Phoenix MKDS5-5-6-355
+
+
+0
+5
+5
+footprints_zpark
+Phoenix-FP-127-26-FH
+SMD female connector, Reflow soldering
+connector Phoenix side entry
+0
+30
+27
+footprints_zpark
+Phoenix-holes_x2
+Holes made to be similar to certain Phoenix connectors.
+
+0
+2
+2
+footprints_zpark
+Phoenix-holes_x5
+Holes made to be similar to certain Phoenix connectors.
+
+0
+5
+5
+footprints_zpark
+PhoenixContact_MCV_1,5_3-G-5.08_1x03_P5.08mm_Vertical
+
+
+0
+3
+3
+footprints_zpark
+PhoenixContact_SMC_1,5_10-G-3.81_1x10_P3.81mm
+Generic Phoenix Contact connector footprint for: MC_1,5/10-G-3.81; number of pins: 10; pin pitch: 3.81mm; Angled || order number: 1803358 8A 160V
+phoenix_contact connector MC_01x10_G_3.81mm
+0
+10
+10
+footprints_zpark
+Phoenix_2x7_1844921
+
+
+0
+14
+14
+footprints_zpark
+Phoenix_2x8_1844934
+
+
+0
+16
+16
+footprints_zpark
+Phoenix_2x8_1845085
+
+
+0
+16
+16
+footprints_zpark
+Phoenix_2x10_1844808
+
+
+0
+20
+20
+footprints_zpark
+Phoenix_2x10_1844808 (2)
+
+
+0
+20
+20
+footprints_zpark
+Phoenix_2x10_1844950
+
+
+0
+20
+20
+footprints_zpark
+Phoenix_1713985
+
+
+0
+5
+5
+footprints_zpark
+Phoenix_FP_1,27_2x13_Angle_SMD
+
+
+0
+30
+27
+footprints_zpark
+Phoenix_MKDS5-2-6-35
+
+
+0
+2
+2
+footprints_zpark
+Phoenix_MKDS5-3+2-6-35
+
+
+0
+5
+5
+footprints_zpark
+Phoenix_MKDS5-3-6-35
+
+
+0
+3
+3
+footprints_zpark
+Phoenix_MKKDS_5_2_6_35
+
+
+0
+4
+4
+footprints_zpark
+PinHeader_1x05_P2.00mm_Vertical
+Through hole straight pin header, 1x05, 2.00mm pitch, single row
+Through hole pin header THT 1x05 2.00mm single row
+0
+6
+6
+footprints_zpark
+PinHeader_2x05_P1.27mm_Vertical
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+footprints_zpark
+PinHeader_2x10_P2.00mm_Angle_SMD
+surface-mounted straight pin header, 2x10, 2.00mm pitch, double rows
+Surface mounted pin header SMD 2x10 2.00mm double row
+0
+20
+20
+footprints_zpark
+PinHeader_2x10_P2.54mm_Vertical-key
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+footprints_zpark
+PinHeader_2x12_P2.00mm_Angle_SMD
+surface-mounted straight pin header, 2x10, 2.00mm pitch, double rows
+Surface mounted pin header SMD 2x10 2.00mm double row
+0
+24
+24
+footprints_zpark
+R_0402_1005Metric_nosilk
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+footprints_zpark
+SAMTEC-SFM-110-02-X-D
+translated Allegro footprint
+
+0
+20
+20
+footprints_zpark
+SAMTEC-TFM-110-01-X-D
+
+
+0
+20
+20
+footprints_zpark
+SAMTEC_TFM-105-02-L-DH-TR
+
+
+0
+14
+14
+footprints_zpark
+SMD Mounting Wurth
+
+
+0
+1
+0
+footprints_zpark
+SMT_Spacer_4mm
+
+
+0
+2
+1
+footprints_zpark
+SOIC-8_4.9x6.0mm_P1.27mm_nosilk
+SOIC, 8 Pin (based on: http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en520352)
+SOIC SO Zpark
+0
+8
+8
+footprints_zpark
+SOIC-16W_7.5x10.3mm_P1.27mm
+SOIC, 16 Pin (JEDEC MS-013AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/rw_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+16
+16
+footprints_zpark
+SOT-223-6
+module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf
+CMS SOT
+0
+6
+6
+footprints_zpark
+SSOP-28_5.3x10.2mm_P0.65mm
+28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+28
+28
+footprints_zpark
+SSOP-28_modified_5.3x10.2mm_P0.65mm
+28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+14
+14
+footprints_zpark
+STM32_NUCLEO
+
+
+0
+16
+16
+footprints_zpark
+SW_KSC9J
+
+
+0
+4
+4
+footprints_zpark
+Samtec_FTSH-105-01-L-D-K
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+footprints_zpark
+Samtec_SHF-105-01-X-D-SM
+
+Zpark Connector SMD SMT
+0
+10
+10
+footprints_zpark
+Segger_6-pin_Needle
+
+
+0
+6
+6
+footprints_zpark
+Segger_6-pin_Needle_wLeg
+
+
+0
+6
+6
+footprints_zpark
+Segger_10-pin_Needle
+
+
+0
+10
+10
+footprints_zpark
+Segger_10-pin_Needle_wLeg
+
+
+0
+10
+10
+footprints_zpark
+T60404-N4641-X920
+
+
+0
+16
+16
+footprints_zpark
+TCA9511A
+VSSOP-8 3.0 x 3.0, http://www.ti.com/lit/ds/symlink/lm75b.pdf
+VSSOP-8 3.0 x 3.0
+0
+8
+8
+footprints_zpark
+TE_796634-4
+
+
+0
+4
+4
+footprints_zpark
+TE_ADF04S04
+
+
+0
+8
+8
+footprints_zpark
+TE_ADF06ST04
+
+
+0
+15
+12
+footprints_zpark
+TFML-110-01-S-D-LC_2x10_P1.27mm_Vertical
+Through hole straight pin header, 2x10, 1.27mm pitch, double rows
+Through hole pin header THT 2x10 1.27mm double row Connector
+0
+20
+20
+footprints_zpark
+TFML-110-01-S-D-LC_2x10_P1.27mm_Vertical-v2
+Through hole straight pin header, 2x10, 1.27mm pitch, double rows
+Through hole pin header THT 2x10 1.27mm double row Connector
+0
+20
+20
+footprints_zpark
+TL3305
+
+
+0
+4
+4
+footprints_zpark
+TLS105B0
+8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf
+WSON 8 1EP
+0
+5
+5
+footprints_zpark
+TQFP-100_14x14mm_P0.5mm
+TQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+100
+100
+footprints_zpark
+TSSOP-10_3x3mm_P0.5mm
+TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)
+SSOP 0.5
+0
+10
+10
+footprints_zpark
+TVS1801
+8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf
+WSON 8 1EP
+0
+13
+2
+footprints_zpark
+TerminalBlock_Phoenix_1017517_P6.35mm_Horizontal
+
+
+0
+5
+3
+footprints_zpark
+Triangle
+
+
+0
+0
+0
+footprints_zpark
+Triangle200
+
+
+0
+0
+0
+footprints_zpark
+Triangle400
+
+
+0
+0
+0
+footprints_zpark
+TriangleNEW
+
+
+0
+0
+0
+footprints_zpark
+USB2_A_Molex_0480372200
+USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
+USB 3.0 type A right angle
+0
+6
+5
+footprints_zpark
+WE_629105150521
+
+
+0
+9
+9
+footprints_zpark
+WeidMuller_LU_10,16_4,5SN_1x5_P10.16mm_Horizontal
+Generic Phoenix Contact connector footprint for: MC_1,5/10-G-5.08; number of pins: 10; pin pitch: 5.08mm; Angled || order number: 1836260 8A 320V
+phoenix_contact connector MC_01x10_G_5.08mm
+0
+10
+5
+footprints_zpark
+WeidMuller_LU_10,16_4,5SN_1x6_P10.16mm_Horizontal
+Generic Phoenix Contact connector footprint for: MC_1,5/10-G-5.08; number of pins: 10; pin pitch: 5.08mm; Angled || order number: 1836260 8A 320V
+phoenix_contact connector MC_01x10_G_5.08mm
+0
+12
+6
+footprints_zpark
+Weidmuller_122624xx_Screw_Terminal_1x11
+
+
+0
+22
+11
+footprints_zpark
+Wuerth_M4_Standoff
+
+
+0
+2
+1
+footprints_zpark
+Wurth
+
+
+0
+9
+1
+footprints_zpark
+Wurth - 74650174
+
+
+0
+4
+1
+footprints_zpark
+Wurth - 74650195R
+
+
+0
+9
+1
+footprints_zpark
+Wurth_Standoff_6mm
+
+
+0
+2
+1
+footprints_zpark
+gateway-mount-dummy
+
+CHARGEIT ZPARK EV Graphic
+0
+0
+0
+footprints_zpark
+gateway_v2-dummy
+
+CHARGEIT ZPARK EV Graphic
+0
+0
+0
 trh9000
 CP_Elec_6.3x5.4
 SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm
