@@ -3807,7 +3807,7 @@
     (property "Value" "C_CC0805JPX7R9BB104" (id 1) (at 294.64 229.87 0)
       (effects (font (size 1.143 1.143)) (justify left bottom) hide)
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 281.94 226.06 0)
+    (property "Footprint" "LRJ:C_0805_2012Metric_round_court" (id 2) (at 281.94 226.06 0)
       (effects (font (size 0.508 0.508)) hide)
     )
     (property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf" (id 3) (at 289.56 224.79 0)
