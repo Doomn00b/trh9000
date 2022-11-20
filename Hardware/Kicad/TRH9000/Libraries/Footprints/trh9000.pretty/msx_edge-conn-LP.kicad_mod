@@ -26,7 +26,6 @@
   (pad "9" connect rect (at 20.32 -0.127) (size 1.5 11) (layers "B.Cu" "B.Mask") (tstamp 348b15a4-32cb-4e0b-b36c-dbd907ba51a0))
   (pad "10" connect rect (at 20.32 -0.127) (size 1.5 11) (layers "F.Cu" "F.Mask") (tstamp 1ccfae16-aa16-4bde-a962-51ee8d8fae82))
   (pad "11" connect rect (at 17.78 -0.127) (size 1.5 11) (layers "B.Cu" "B.Mask") (tstamp 8b0979ae-de70-4a59-bfe7-86797d570918))
-  (pad "12" connect rect (at 17.78 -0.127) (size 1.5 11) (layers "F.Cu" "F.Mask") (tstamp 51e74190-6fc5-49aa-898e-8643cd54bb37))
   (pad "13" connect rect (at 15.24 -0.127) (size 1.5 11) (layers "B.Cu" "B.Mask") (tstamp 375088e8-1926-47d9-bedd-25acb9e35594))
   (pad "14" connect rect (at 15.24 -0.127) (size 1.5 11) (layers "F.Cu" "F.Mask") (tstamp d12270e1-657a-4505-9062-088b4ae4ca0d))
   (pad "15" connect rect (at 12.7 -0.127) (size 1.5 11) (layers "B.Cu" "B.Mask") (tstamp a08de1bf-c642-4236-805a-d66cc8badf73))
