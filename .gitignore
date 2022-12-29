@@ -26,3 +26,5 @@ _autosave-*
 
 #Back-up folder
 Hardware/Kicad/TRH9000/TRH9000-backups/*
+
+*.zip
