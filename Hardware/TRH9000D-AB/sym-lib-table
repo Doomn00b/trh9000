@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "TRH9000")(type "KiCad")(uri "E:/Documents/Teknikprojekt/Hardware/MSX/trh9000/Hardware/TRH9000D-AA/Libraries/Symbols/TRH9000.kicad_sym")(options "")(descr ""))
+  (lib (name "Ultra-MSX")(type "KiCad")(uri "E:/Documents/Teknikprojekt/Hardware/MSX/MSX_Ultra/Hardware/Libraries/Ultra-MSX.kicad_sym")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "E:/Documents/Teknikprojekt/Hardware/MSX/MSX_Ultra/Hardware/Libraries/Logo.kicad_sym")(options "")(descr ""))
+)
