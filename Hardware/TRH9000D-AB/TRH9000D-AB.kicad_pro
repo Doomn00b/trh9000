@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.45,
-          "width": 1.175
+          "height": 0.95,
+          "width": 0.9
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.152
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -499,6 +499,7 @@
           "/VIDEO/Col_GND",
           "/VIDEO/GNDD",
           "/VIDEO/VGA_GND",
+          "/VIDEO/VGND",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -591,7 +592,7 @@
       "netlist": "",
       "specctra_dsn": "TRH9000.dsn",
       "step": "",
-      "vrml": ""
+      "vrml": "TRH9000D-AB-top.wrl"
     },
     "page_layout_descr_file": ""
   },
